@@ -11,5 +11,6 @@ alias ls='ls --color=auto'
 alias ll='ls -la'
 alias grep='grep --color=auto'
 alias hyprconf='$EDITOR ~/.config/hypr/hyprland.conf'
+alias hx='helix'
 
 PS1='[\u@\h \W]\$ '
